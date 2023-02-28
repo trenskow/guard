@@ -1,6 +1,6 @@
 {
   "name": "@trenskow/guard",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A simple guard command.",
   "main": "index.js",
   "scripts": {
