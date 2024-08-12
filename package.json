@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/trenskow/guard#readme",
   "dependencies": {
-    "@trenskow/log": "^2.0.14"
+    "@trenskow/log": "^2.0.15"
   },
   "devDependencies": {
     "eslint": "^9.9.0"
