@@ -1,9 +1,6 @@
-'use strict';
+import log from '@trenskow/log';
 
-const
-	log = require('@trenskow/log');
-
-exports = module.exports = (application) => {
+export default (application) => {
 	return (condition, message) => {
 		if (!condition) {
 			log('error', application, { message });
