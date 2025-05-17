@@ -18,12 +18,12 @@
 	},
 	"homepage": "https://github.com/trenskow/guard#readme",
 	"dependencies": {
-		"@trenskow/log": "^2.1.19"
+		"@trenskow/log": "^2.1.20"
 	},
 	"devDependencies": {
 		"@eslint/eslintrc": "^3.3.1",
 		"@eslint/js": "^9.13.0",
-		"eslint": "^9.26.0",
-		"globals": "^16.0.0"
+		"eslint": "^9.27.0",
+		"globals": "^16.1.0"
 	}
 }
